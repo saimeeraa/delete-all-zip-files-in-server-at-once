@@ -1,0 +1,1 @@
+# delete-all-zip-files-in-server-at-once
